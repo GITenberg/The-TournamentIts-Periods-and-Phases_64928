@@ -1,0 +1,34 @@
+_repo: The-TournamentIts-Periods-and-Phases_64928
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Ffoulkes, Charles John
+    birthdate: 1868
+    deathdate: 1947
+    gutenberg_agent_id: '41297'
+    url: http://www.gutenberg.org/2009/agents/41297
+    wikipedia: https://en.wikipedia.org/wiki/Charles_ffoulkes
+creator:
+  author:
+    agent_name: Clephan, R. Coltman (Robert Coltman)
+    alias: Clephan, Robert Coltman
+    gutenberg_agent_id: '50342'
+    url: http://www.gutenberg.org/2009/agents/50342
+description: ''
+gutenberg_issued: '2021-03-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64928'
+  lccn: '19017734'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'CR'
+- !lcsh 'Military art and science -- History -- Medieval, 500-1500'
+- !lcsh 'Tournaments, Medieval -- History'
+- !lcsh 'Knights and knighthood -- History'
+- GITenberg
+title: The Tournament—Its Periods and Phases
+url: http://www.gutenberg.org/ebooks/64928
